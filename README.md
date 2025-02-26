@@ -1,9 +1,17 @@
 ## Hi there 👋
 
-<!--
-**lilyllia/lilyllia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning HTML5 and CSS3 besause i want to work in web developing in the near future.
+- 😄 Pronouns: she/her or he/him.
+- ⚡ Fun fact: i'm actually brazillian and portuguese is my first language.
+  <hr>
+<div display="flex" align="center">
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>  
 
-Here are some ideas to get you started:
+
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
